@@ -15,16 +15,11 @@
 
 ### 🧑‍💻 About me
 
-```python
-class NikitaVoid:
-    location = "Minsk, Belarus"
-    building = ["Telegram bots", "Websites", "AI tools", "Automation"]
-    stack    = ["Python", "LLM integrations"]
-    motto    = "If I do it twice, I automate it"
-
-    def contact(self):
-        return "Open to freelance and collaboration — t.me/nikitav0id"
-```
+- 📍 Minsk, Belarus
+- 🤖 I build Telegram bots, websites, AI tools and automation
+- 🐍 Stack: Python and LLM integrations
+- 💡 Motto: if I do it twice, I automate it
+- 💬 Open to freelance and collaboration — [t.me/nikitav0id](https://t.me/nikitav0id)
 
 ### 🛠 Tech stack
 
